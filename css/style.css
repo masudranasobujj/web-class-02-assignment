@@ -1,0 +1,78 @@
+body{
+	margin: 0px;
+}
+header{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-bottom: 20px;
+}
+header img{
+	width: 200px;
+}
+header h1{
+	font-size: 30px;
+	margin: 0;
+}
+header .color1{
+    color: #0505ffb8;
+}
+header .color2{
+    color: #ff0000;
+}
+header .color3{
+    color: #4caf50;
+}
+header .color4{
+	color: #ff9800;
+}
+.banner-section{
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.banner-section img{}
+.description-section{
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.description-section h1{
+    font-size: 45px;
+    margin: 0;
+}
+.long-description{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.long-description p{
+    margin: 0px;
+    font-size: 20px;
+}
+footer{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: seagreen;
+    color: #fff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+footer h2{
+    font-size: 75px;
+    margin: 0px;
+}
+footer h3{
+    font-size: 75px;
+    margin: 0px;
+}
+img{
+    max-width: 100%;
+}
